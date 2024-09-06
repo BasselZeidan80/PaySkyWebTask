@@ -1,0 +1,30 @@
+[
+  {
+    "firstName": "jhon",
+    "lastName": "doe",
+    "dateOfBirth": "1990-05-15",
+    "address": "giza",
+    "postcode": "1232",
+    "city": "cairo",
+    "state": "12",
+    "country": "EG",
+    "phone": "01120824721",
+    "email": "user2@example.com",
+    "password": "123123123@Bb",
+    "Product": "Bolt Cutters"
+  },
+  {
+    "firstName": "bassel",
+    "lastName": "ahmed",
+    "dateOfBirth": "1985-08-20",
+    "address": "cairo",
+    "postcode": "4567",
+    "city": "alex",
+    "state": "14",
+    "country": "EG",
+    "phone": "01234567890",
+    "email": "user2@example.com",
+    "password": "password123@Cc",
+    "Product": "Combination Pliers"
+  }
+]
